@@ -1,0 +1,5 @@
+﻿  ASProjectZero.cpp
+c:\users\shaji\documents\visual studio 2017\projects\asprojectzero\asprojectzero\asprojectzero.cpp(29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\shaji\documents\visual studio 2017\projects\asprojectzero\asprojectzero\asprojectzero.cpp(31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\shaji\documents\visual studio 2017\projects\asprojectzero\asprojectzero\asprojectzero.cpp(37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ASProjectZero.vcxproj -> C:\Users\shaji\Documents\Visual Studio 2017\Projects\ASProjectZero\Debug\ASProjectZero.exe
